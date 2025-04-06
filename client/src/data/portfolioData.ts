@@ -16,6 +16,17 @@ export const portfolioData = {
   
   experiences: [
     {
+      title: "MERN Stack Developer",
+      company: "CodesOrbit",
+      period: "Aug 2024 - Present",
+      responsibilities: [
+        "Developing full-stack web applications using MongoDB, Express.js, React, and Node.js",
+        "Implementing responsive designs and user-friendly interfaces",
+        "Collaborating with team members for seamless integration of frontend and backend services",
+        "Optimizing application performance and enhancing user experience"
+      ]
+    },
+    {
       title: "Lab Demonstrator",
       company: "FAST NUCES Islamabad",
       period: "Jan 2023 - May 2023",
