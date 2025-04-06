@@ -18,9 +18,9 @@ function App() {
   // Use theme context to apply dark mode
   const { theme } = useTheme();
   
-  // Apply theme to the root div
+  // Apply theme to the root div and add transition effect
   return (
-    <div className={theme === 'dark' ? 'dark' : ''}>
+    <div className={`${theme === 'dark' ? 'dark' : ''} transition-colors duration-300`}>
       <Router />
       <Toaster />
     </div>
