@@ -1,0 +1,112 @@
+# Daniyal Imran - Web & Software Developer Portfolio
+
+## 👨‍💻 About Me
+Computer Science graduate from FAST NUCES with experience in full-stack development, blockchain technologies, and AI. Passionate about creating innovative solutions that solve real-world problems.
+
+## 🎓 Education
+- **BS Computer Science** | FAST NUCES Islamabad | Sep 2020 - May 2024
+- **ICS Computer Science** | Forman Christian College, Lahore | Sep 2018 - May 2020
+
+## 💼 Experience
+### Lab Demonstrator | FAST NUCES Islamabad
+*January 2023 - May 2023*
+- Assisted students with networking concepts using Cisco Packet Tracer
+- Provided guidance on configuring network topologies and troubleshooting
+- Demonstrated effective communication of complex technical concepts
+
+### Front End Developer | Freelance
+*2020*
+- Designed and implemented frontend for a cargo delivery application using React
+- Integrated frontend with SQL-based backend using APIs
+- Collaborated with backend team for endpoint testing and implementation
+- Delivered project on time while meeting all client requirements
+
+## 🚀 Projects
+
+### Mindsight App (Final Year Project)
+*MERN Stack, Flask, IoT, TensorFlow*
+```
+A comprehensive application to assist psychologists in detecting anxiety through:
+- Facial analysis
+- Speech sentiment analysis
+- Physiological data from IoT devices (heart rate and oxygen levels)
+- Advanced TensorFlow models for high-accuracy detection
+```
+
+### Cafe Management System
+*GO, React, Web3, Solidity*
+```
+- Built cafe management system with blockchain integration for transparent transactions
+- Implemented Solidity smart contracts to ensure data integrity
+- Created user-friendly interface with React and Web3 for seamless interaction
+```
+
+### Contact Manager App Backend
+*Node.js, Express.js, MongoDB*
+```
+- Developed RESTful API backend for contact management
+- Implemented CRUD operations with MongoDB integration
+- Thoroughly tested all endpoints using Postman
+```
+
+### Group Chatting App
+*React, Firebase*
+```
+- Developed WhatsApp-inspired clone with Firebase backend
+- Implemented real-time group chat functionality for various rooms
+- Optimized UI for seamless user experience
+```
+
+### Google Clone with API Integration
+*React, REST API*
+```
+- Created Google search engine clone using React
+- Integrated with Google API for search result display
+- Focused on API integration for dynamic content retrieval
+```
+
+### NASCON Event Website
+*HTML, CSS, JavaScript, C#, SQL, ASP.NET*
+```
+- Led development of event website for three-day NASCON event
+- Implemented ASP.NET backend with SQL database
+- Ensured optimal database management for event information
+```
+
+### Hostel Management System
+*Java, JavaFX, MySQL*
+```
+- Created comprehensive hostel management solution
+- Built GUI interface with JavaFX
+- Implemented MySQL database for data storage and retrieval
+```
+
+## 🛠️ Technical Skills
+
+### Languages
+JavaScript | Python | C/C++ | Java | Go | Rust | Solidity | HTML | CSS | C#
+
+### Frameworks & Libraries
+React | Node.js | Express.js | NextJS | TailwindCSS | Bootstrap | ASP.NET | JavaFX
+
+### Databases
+MongoDB | MySQL | Oracle
+
+### Tools & Platforms
+Linux | Firebase | GitHub | Git | Docker | AWS
+
+## 🏆 Achievements & Certifications
+- Ranked 59th in Hackathon CTF event by Ignite (out of 500+ participants)
+- AWS Academy Graduate - AWS Academy Microservices and CI/CD Pipeline Builder
+- Web Development Internship Certificate
+
+## 🔍 Interests
+Web 3.0 | Gaming | Traveling | Music | Sports
+
+## 📫 Contact
+- **Email**: daniyalimran602@gmail.com
+- **Phone**: +92 3035053501
+- **Location**: Islamabad, Pakistan
+- **LinkedIn**: [LinkedIn Profile]
+- **GitHub**: [GitHub Profile]
+- **Medium**: [Medium Profile]
